@@ -1,4 +1,4 @@
-# SimpleOS Project
+# Argan Os (Operating System Project)
 
 A simple operating system implementation for learning OS concepts.
 
